@@ -149,7 +149,7 @@ body {
 
 /* --------Development Section & Community Section--------- */
 .development-area {
-  background: url(/images/shapes/shape-1.png) no-repeat;
+  background: url(../images/shapes/shape-1.png) no-repeat;
   background-size: 150px;
   background-position: 80px 40px;
 }
@@ -196,7 +196,7 @@ body {
 /* ------------Community Section-------------- */
 .community-area {
   padding: 6rem 0;
-  background: url(/images/shapes/shape-1.png) no-repeat;
+  background: url(../images/shapes/shape-1.png) no-repeat;
   background-size: 150px;
   background-position: 1180px 380px;
 }

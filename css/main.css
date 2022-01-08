@@ -18,6 +18,7 @@ body {
 /* ---------Utility Classes---------- */
 .container {
   width: 80%;
+  max-width: 1440px;
   margin: 0 auto;
 }
 
@@ -148,11 +149,11 @@ body {
 }
 
 /* --------Development Section & Community Section--------- */
-.development-area {
+/* .development-area {
   background: url(../images/shapes/shape-1.png) no-repeat;
   background-size: 150px;
   background-position: 80px 40px;
-}
+} */
 
 .development-item-container,
 .community-item-container {
@@ -194,12 +195,12 @@ body {
 }
 
 /* ------------Community Section-------------- */
-.community-area {
+/* .community-area {
   padding: 6rem 0;
   background: url(../images/shapes/shape-1.png) no-repeat;
   background-size: 150px;
   background-position: 1180px 380px;
-}
+} */
 
 /* ------------Blog Section---------------- */
 .blog-container {
